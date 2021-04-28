@@ -84,5 +84,10 @@ namespace laptop_battery_safe
         {
 
         }
+
+        private void notifyIcon1_DoubleClick(object sender, EventArgs e)
+        {
+            this.Show();
+        }
     }
 }
