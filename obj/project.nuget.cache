@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iv8SvWU+WsCVtkHtvF8X0ZRr7TEkt4NGmZuWa/GWUOu3E/DNmS+3TRBmytXEXRNb8KViKLH1KyOv7W7bm6MyWw==",
+  "success": true,
+  "projectFilePath": "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
