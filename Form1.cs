@@ -20,10 +20,10 @@ namespace laptop_battery_safe
             Application.Idle += Application_Idle;
         }
         int limit = 95;
-
         PowerStatus power = SystemInformation.PowerStatus;
 
-       
+
+
         private void Application_Idle(object sender, EventArgs e)
         {
 
