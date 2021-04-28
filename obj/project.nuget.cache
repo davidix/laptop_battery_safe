@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iv8SvWU+WsCVtkHtvF8X0ZRr7TEkt4NGmZuWa/GWUOu3E/DNmS+3TRBmytXEXRNb8KViKLH1KyOv7W7bm6MyWw==",
+  "dgSpecHash": "ZCeifRU2o4p8m4Ygr0PqrSF1cSlLZd9MHNShe13ojU+xDJdE62jrqNIbjb2lx8MAa1Y7htddPJWK1F1SW1rc4A==",
   "success": true,
-  "projectFilePath": "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj",
+  "projectFilePath": "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",

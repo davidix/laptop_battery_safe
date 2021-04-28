@@ -69,5 +69,20 @@ namespace laptop_battery_safe
         {
             limit = Convert.ToInt32(textBox1.Text);
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 }

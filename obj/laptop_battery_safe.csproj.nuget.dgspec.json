@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj": {}
+    "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj": {}
   },
   "projects": {
-    "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj": {
+    "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj",
+        "projectUniqueName": "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj",
         "projectName": "laptop_battery_safe",
-        "projectPath": "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj",
+        "projectPath": "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "H:\\laptop_battery_safe\\laptop_battery_safe\\obj\\",
+        "outputPath": "H:\\laptop_battery_safe\\laptop_battery_safe\\laptop_battery_safe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
