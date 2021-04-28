@@ -23,7 +23,6 @@ namespace laptop_battery_safe
         PowerStatus power = SystemInformation.PowerStatus;
 
 
-
         private void Application_Idle(object sender, EventArgs e)
         {
 
