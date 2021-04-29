@@ -41,6 +41,7 @@ namespace laptop_battery_safe
             this.button1 = new System.Windows.Forms.Button();
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.button2 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -56,7 +57,7 @@ namespace laptop_battery_safe
             // 
             this.lblBatteryPercentage.AutoSize = true;
             this.lblBatteryPercentage.Font = new System.Drawing.Font("Segoe UI", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblBatteryPercentage.Location = new System.Drawing.Point(376, 210);
+            this.lblBatteryPercentage.Location = new System.Drawing.Point(201, 123);
             this.lblBatteryPercentage.Name = "lblBatteryPercentage";
             this.lblBatteryPercentage.Size = new System.Drawing.Size(94, 40);
             this.lblBatteryPercentage.TabIndex = 0;
@@ -69,7 +70,7 @@ namespace laptop_battery_safe
             this.toolStripMenuHide});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(468, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(307, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
@@ -114,17 +115,27 @@ namespace laptop_battery_safe
             // toolStrip1
             // 
             this.toolStrip1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.toolStrip1.Location = new System.Drawing.Point(0, 261);
+            this.toolStrip1.Location = new System.Drawing.Point(0, 184);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(468, 25);
+            this.toolStrip1.Size = new System.Drawing.Size(307, 25);
             this.toolStrip1.TabIndex = 4;
             this.toolStrip1.Text = "toolStrip1";
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(12, 123);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(100, 23);
+            this.button2.TabIndex = 5;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
             // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(468, 286);
+            this.ClientSize = new System.Drawing.Size(307, 209);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
@@ -155,6 +166,7 @@ namespace laptop_battery_safe
         private System.Windows.Forms.NotifyIcon notifyIcon1;
         private System.Windows.Forms.ToolStrip toolStrip1;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuHide;
+        private System.Windows.Forms.Button button2;
     }
 }
 

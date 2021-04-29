@@ -90,5 +90,7 @@ namespace laptop_battery_safe
         {
             this.Show();
         }
+
+       
     }
 }
