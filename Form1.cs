@@ -36,6 +36,9 @@ namespace laptop_battery_safe
 
 
 
+
+
+
         private void timer1_Tick(object sender, EventArgs e)
         {
             lblBatteryPercentage.Text = (power.BatteryLifePercent * 100).ToString();
