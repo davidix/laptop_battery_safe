@@ -52,9 +52,11 @@ namespace laptop_battery_safe
             // Restarter
             // 
             this.Restarter.Tick += new System.EventHandler(this.Restarter_Tick);
+            
             // 
             // lblBatteryPercentage
             // 
+
             this.lblBatteryPercentage.AutoSize = true;
             this.lblBatteryPercentage.Font = new System.Drawing.Font("Segoe UI", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lblBatteryPercentage.Location = new System.Drawing.Point(201, 123);
