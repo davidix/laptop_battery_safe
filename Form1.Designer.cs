@@ -64,7 +64,7 @@ namespace laptop_battery_safe
             this.lblBatteryPercentage.Size = new System.Drawing.Size(94, 40);
             this.lblBatteryPercentage.TabIndex = 0;
             this.lblBatteryPercentage.Text = "label1";
-            
+
             // 
             // menuStrip1
             // 
@@ -136,6 +136,7 @@ namespace laptop_battery_safe
             // 
             // frmMain
             // 
+            
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(307, 209);
