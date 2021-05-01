@@ -52,7 +52,7 @@ namespace laptop_battery_safe
             // Restarter
             // 
             this.Restarter.Tick += new System.EventHandler(this.Restarter_Tick);
-            
+
             // 
             // lblBatteryPercentage
             // 
@@ -64,9 +64,11 @@ namespace laptop_battery_safe
             this.lblBatteryPercentage.Size = new System.Drawing.Size(94, 40);
             this.lblBatteryPercentage.TabIndex = 0;
             this.lblBatteryPercentage.Text = "label1";
+            
             // 
             // menuStrip1
             // 
+
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.btnSetLimit,
             this.toolStripMenuHide});
