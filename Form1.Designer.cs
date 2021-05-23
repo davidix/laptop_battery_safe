@@ -137,6 +137,8 @@ namespace laptop_battery_safe
             // frmMain
             // 
             
+
+            
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(307, 209);
