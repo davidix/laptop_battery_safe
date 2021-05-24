@@ -52,11 +52,9 @@ namespace laptop_battery_safe
             // Restarter
             // 
             this.Restarter.Tick += new System.EventHandler(this.Restarter_Tick);
-
             // 
             // lblBatteryPercentage
             // 
-
             this.lblBatteryPercentage.AutoSize = true;
             this.lblBatteryPercentage.Font = new System.Drawing.Font("Segoe UI", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lblBatteryPercentage.Location = new System.Drawing.Point(201, 123);
@@ -64,11 +62,9 @@ namespace laptop_battery_safe
             this.lblBatteryPercentage.Size = new System.Drawing.Size(94, 40);
             this.lblBatteryPercentage.TabIndex = 0;
             this.lblBatteryPercentage.Text = "label1";
-
             // 
             // menuStrip1
             // 
-
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.btnSetLimit,
             this.toolStripMenuHide});
@@ -136,11 +132,9 @@ namespace laptop_battery_safe
             // 
             // frmMain
             // 
-            
-
-            
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(307, 209);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.toolStrip1);
@@ -151,7 +145,7 @@ namespace laptop_battery_safe
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmMain";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.WindowsDefaultBounds;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Davidix Battery Safe";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);

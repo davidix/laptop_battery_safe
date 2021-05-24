@@ -325,11 +325,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\xampp\\htdocs\\dev\\sysdix\\plugins\\system\\davidix_japi\\laptop_battery_safe\\laptop_battery_safe.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\laptop_battery_safe\\laptop_battery_safe.csproj",
       "projectName": "laptop_battery_safe",
-      "projectPath": "D:\\xampp\\htdocs\\dev\\sysdix\\plugins\\system\\davidix_japi\\laptop_battery_safe\\laptop_battery_safe.csproj",
+      "projectPath": "C:\\Users\\David\\Documents\\GitHub\\laptop_battery_safe\\laptop_battery_safe.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "D:\\xampp\\htdocs\\dev\\sysdix\\plugins\\system\\davidix_japi\\laptop_battery_safe\\obj\\",
+      "outputPath": "C:\\Users\\David\\Documents\\GitHub\\laptop_battery_safe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
