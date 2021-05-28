@@ -12,9 +12,6 @@ using System.Threading;
 
 namespace laptop_battery_safe
 {
-
-
-    
     public partial class frmMain : Form
     {
         public frmMain()
