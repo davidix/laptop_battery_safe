@@ -30,7 +30,6 @@ namespace laptop_battery_safe
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
             CheckerTimer.Start();
         }
 
@@ -89,6 +88,5 @@ namespace laptop_battery_safe
             this.Show();
         }
 
-       
     }
 }
