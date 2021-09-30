@@ -22,7 +22,6 @@ namespace laptop_battery_safe
         int limit = 95;
         PowerStatus power = SystemInformation.PowerStatus;
 
-
         private void Application_Idle(object sender, EventArgs e)
         {
 
@@ -87,6 +86,5 @@ namespace laptop_battery_safe
         {
             this.Show();
         }
-
     }
 }
